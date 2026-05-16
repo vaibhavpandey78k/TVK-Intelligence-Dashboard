@@ -36,7 +36,7 @@ Final executive-level overview combining all insights.
 ## Dashboard Preview
 
 ### Overview
-![Overview](overview_page.png)
+![Overview](overview__page.png)
 
 ### Political Intelligence
 ![Political Intelligence](Political_intelligence.png)
