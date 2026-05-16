@@ -52,5 +52,4 @@ Final executive-level overview combining all insights.
 
 ## Author
 
-Vaibhav Pandey**# TVK-Intelligence-Dashboard
-A cinematic multi-page Power BI dashboard analyzing cinema, politics, and social media influence.
+Vaibhav Pandey
