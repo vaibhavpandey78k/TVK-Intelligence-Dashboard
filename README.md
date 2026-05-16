@@ -36,19 +36,19 @@ Final executive-level overview combining all insights.
 ## Dashboard Preview
 
 ### Overview
-![Overview](images/overview.png)
+![Overview](overview_page.png)
 
 ### Political Intelligence
-![Political Intelligence](images/political_intelligence.png)
+![Political Intelligence](Political_intelligence.png)
 
 ### Social Media Analytics
-![Social Media](images/social_media_analytics.png)
+![Social Media](social_media_analytics.png)
 
 ### Insights & Predictions
-![Insights](images/insights_predictions.png)
+![Insights](Insights_predictions.png)
 
 ### Executive Summary
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](Executive_summary.png)
 
 ## Author
 
